@@ -1,0 +1,6 @@
+[submodule "nvim/.config/LightNvim"]
+	path = nvim/.config/LightNvim
+	url = https://github.com/Tinku10/LightNvim.git
+[submodule "/home/tinku/dotfiles/nvim/.config/nvim"]
+	path = /home/tinku/dotfiles/nvim/.config/nvim
+	url = https://github.com/Tinku10/LightNvim.git
