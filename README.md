@@ -7,8 +7,6 @@
 I am trying out [GNU stow](https://www.gnu.org/software/stow/) to manage my
 dotfiles.
 
-<br>
-
 #### NOTE
 
 The repositories I used previously for dotfiles management got too cluttered
