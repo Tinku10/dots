@@ -1,0 +1,16 @@
+version: "3.0"
+services: 
+  client: 
+    stdin_open: true
+    build:
+      context: ./mar05
+      dockerfile: Dockerfile
+    ports: 
+      - "3000:3000"
+  
+  server:
+    stdin_open: true
+    image: clue/json-server
+    ports: 
+      - "4004:80"
+    volumes: ["C:/Users/TinkumoniKalita/IdeaProjects/react/demo/server/db.json", "/server/db.json"]

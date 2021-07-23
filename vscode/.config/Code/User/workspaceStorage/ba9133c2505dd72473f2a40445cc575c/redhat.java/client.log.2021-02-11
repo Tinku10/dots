@@ -1,0 +1,5 @@
+{
+  message: 'Starting Java server with: C:\\Program Files\\Java\\jdk-11.0.10\\bin\\java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -DwatchParentProcess=false -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -noverify -jar c:\\Users\\TinkumoniKalita\\.vscode\\extensions\\redhat.java-0.74.0\\server\\plugins\\org.eclipse.equinox.launcher_1.6.0.v20200915-1508.jar -configuration c:\\Users\\TinkumoniKalita\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.java\\0.74.0\\config_ss_win -data c:\\Users\\TinkumoniKalita\\AppData\\Roaming\\Code\\User\\workspaceStorage\\ba9133c2505dd72473f2a40445cc575c\\redhat.java\\ss_ws',
+  level: 'info',
+  timestamp: '2021-02-11 15:53:27.810'
+}

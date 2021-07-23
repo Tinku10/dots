@@ -1,0 +1,136 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/tinku/
+	..
+1620699858
+'b
+	/home/tinku/bin/
+	..
+1620699858
+'h
+	/home/tinku/
+	..
+1620699858
+'z
+	/home/tinku/.config/vifm
+	..
+1620699858
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home
+	tinku
+1
+d/
+	boot
+1
+d/home/tinku
+	Documents
+2
+d/home/tinku/Documents
+	CP
+1
+d/home/tinku/Documents/CP
+	..
+0
+d/home/tinku/.config/vifm
+	..
+0
+d/home/tinku/.config
+	vifm
+20
+d/home/tinku/.config/vifm
+	..
+0
+d/home/tinku/.config
+	vifm
+20
+d/home/tinku
+	..
+0
+d/home/tinku/Documents/CP
+	contest
+1
+d/home/tinku/Documents/CP/contest
+	..
+0
+d/home/tinku/Documents/CP
+	dsa
+2
+d/home/tinku/Documents/CP/dsa
+	..
+0
+d/home/tinku/Documents/CP
+	node_modules
+3
+d/home/tinku/Documents/CP/node_modules
+	clangd
+1
+d/home/tinku/Documents/CP/node_modules/clangd
+	..
+0
+d/home/tinku/Documents/CP/node_modules
+	clangd
+1
+d/home/tinku/Documents/CP
+	..
+0
+d/home/tinku/Documents
+	CP
+1
+d/home/tinku
+	Documents
+2
+d/home/tinku/Documents
+	CP
+1
+d/home/tinku/Documents/CP
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/tinku
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:history
+:nvim a.cpp
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

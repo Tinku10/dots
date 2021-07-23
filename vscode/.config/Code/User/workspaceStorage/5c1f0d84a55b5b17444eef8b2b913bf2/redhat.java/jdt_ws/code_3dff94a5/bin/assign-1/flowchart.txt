@@ -1,0 +1,87 @@
+//swapping two numbers using a third variable
+START
+
+step-1 declare two variables
+step-2 assign values to both of them
+step-3 declare a third variable
+step-4 assign the first variable to the third variable
+step-5 assign the second variable to the first variable
+step-6 assign third variable to the second variable
+
+STOP
+
+
+//swapping two numbers without using a third variable
+START
+
+step-1 declare two variables a and b
+step-2 assign values to both of them
+step-3 a = a xor b
+step-4 b = a xor b
+step-4 a = a xor b
+
+STOP
+
+//check palindrome
+START
+
+step-1 input the string of characters
+step-2 take two pointers at both end ( i and j )
+step-3 increment i and decrement j- till i<=j
+step-4 if both characters match does not match break (not palindrome)
+step-5 else it is palindrome
+
+STOP
+
+//check prime
+START
+
+step-1 input the given number
+step-2 loop through all the numbers from 2 till the square root of the number
+step-3 if the number is not divisible at any point in the iteration it is not prime
+step-4 else number is prime
+
+STOP
+
+//fibonacci
+START
+
+step-1 take the input n
+step-2 declare two variables p1 = 1 and p2 = 1
+step-3 print the first two numbers as 1 and 1
+step-4 loop till n
+step-5 at each iteration current = p1 + p2 
+step-5 update p2 = current and p1 = p2 
+
+STOP
+
+
+//factorial
+START
+
+step-1 take the input n
+step-2 declare an array fact[n] 
+step-3 fact[0] = 1 and fact[1] = 1 
+step-4 loop till n using a variable i from 1 to n
+step-5 at each iteration fact[i] = i*fact[i-1] 
+step-6 print fact[n]
+
+STOP
+
+//largest of two numbers
+START
+step-1 take the inputs a and b
+step-2 check if a is greater than or equal to b, if true then a is larger
+       else b is larger
+
+STOP
+
+//largest of three numbers
+START
+
+step-1 take the inputs a, b and c
+step-2 check if a is larger than or equal to b and larger than or equal to c, if true then a is the largest
+step-3 else check if b is larger than or equal to a and larger than or equal to c, if true then b is the largest
+step-4 else check if c is larger than or equal to a and larger than or equal to b, if true the c is the largest
+
+STOP

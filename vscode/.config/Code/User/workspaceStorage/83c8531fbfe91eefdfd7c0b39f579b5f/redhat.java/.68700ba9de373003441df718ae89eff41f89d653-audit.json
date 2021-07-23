@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "c:\\Users\\TinkumoniKalita\\AppData\\Roaming\\Code\\User\\workspaceStorage\\83c8531fbfe91eefdfd7c0b39f579b5f\\redhat.java\\.68700ba9de373003441df718ae89eff41f89d653-audit.json",
+    "files": [
+        {
+            "date": 1615454290112,
+            "name": "c:\\Users\\TinkumoniKalita\\AppData\\Roaming\\Code\\User\\workspaceStorage\\83c8531fbfe91eefdfd7c0b39f579b5f\\redhat.java\\client.log.2021-03-11",
+            "hash": "5eb58a2182ac738fcaca784a43aaea1e"
+        }
+    ]
+}

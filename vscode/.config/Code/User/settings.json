@@ -1,0 +1,124 @@
+{
+    "editor.fontFamily": "JetBrains Mono Light",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "afterDelay",
+    "editor.suggestSelection":"first",
+    "editor.cursorStyle": "line",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorCustomizations": {
+			"statusBar.background": "#8FBCBB",
+			"statusBar.noFolderBackground": "#8FBCBB",
+			"statusBar.debuggingBackground": "#8FBCBB",
+			"statusBar.foreground": "#434C5E"
+		},
+    "editor.tabCompletion": "on",
+
+    // vim settings
+
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "vim.leader": "<space>",
+    "vim.sneak": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [ "j", "j" ],
+            "after": [ "<Esc>" ]
+        }
+    ],
+    "vim.normalModeKeyBindings": [
+        // {
+        //     "before": [ "<leader>", "b" ],
+        //     "commands": [ "bookmarks.list" ]
+        // },
+        {
+            "before": [ "<leader>", "n" ],
+            "commands": [ "workbench.action.terminal.new"]
+        },
+        {
+            "before": ["<leader>", "t"],
+            "commands": ["workbench.action.togglePanel"]
+        },
+        {
+            "before": ["<leader>", "s"],
+            "commands": ["workbench.action.focusSideBar"]
+        },
+        {
+            "before": ["<leader>", "f"],
+            "commands": ["workbench.action.quickOpen"]
+        },
+        {
+            "key": "j",
+            "command": "list.focusDown",
+            "when": "listFocus"
+        },
+        {
+            "key": "k",
+            "command": "list.focusUp",
+            "when": "listFocus"
+        },
+        {
+            "key": "enter",
+            "command": "list.select",
+            "when": "explorerViewletVisible && filesExplorerFocus"
+        },
+        {
+            "key": "e",
+            "command": "list.toggleExpand",
+            "when": "listFocus"
+        }
+    ],
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": [
+        "#8FBCBB",
+        "#434C5E"
+    ],
+    "vim.statusBarColors.insert": "#b3ffb3",
+    "vim.statusBarColors.visual": "#B48EAD",
+    "vim.statusBarColors.visualline": "#B48EAD",
+    "vim.statusBarColors.visualblock": "#A3BE8C",
+    "vim.statusBarColors.replace": "#D08770",
+    "vim.statusBarColors.commandlineinprogress": "#66c2ff",
+    "vim.statusBarColors.searchinprogressmode": "#e6fffj",
+    "vim.statusBarColors.easymotionmode": "#F7E0C3",
+    "vim.statusBarColors.easymotioninputmode": "#F7E0C3",
+    "vim.statusBarColors.surroundinputmode": "#007ACC",
+    "editor.fontSize": 13,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.lineHeight": 20,
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "workbench.iconTheme": "material-icon-theme",
+    "task.problemMatchers.neverPrompt": true,
+    "extensions.ignoreRecommendations": true,
+    "angular.enable-experimental-ivy-prompt": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "gruvboxMaterial.darkSelection": "blue",
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    },
+    "[java]": {
+
+      "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+    "java.configuration.runtimes": [
+    
+    ],
+    "editor.lineNumbers": "on",
+"editor.accessibilitySupport": "off",
+"editor.insertSpaces": false,
+"editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+"editor.wordWrap": "off",
+"tabnine.experimentalAutoImports": true,
+}

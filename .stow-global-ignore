@@ -1,0 +1,5 @@
+# exclude all readme files
+**/README.md
+
+# exclude all licences
+**/LICENCE
