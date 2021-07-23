@@ -1,10 +1,11 @@
 <h1 align="center" style="color:#3B4252"> <strong>~/.</strong> </h1> <br>
 
-#### Here lies all the dots united to make up the configuration I want.
+<h5 align="center"> All the dots united </h5>
 
 <br>
 
-I am trying out **GNU stow** to manage my dotfiles.
+I am trying out [GNU stow](https://www.gnu.org/software/stow/) to manage my
+dotfiles.
 
 <br>
 
