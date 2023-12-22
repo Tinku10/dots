@@ -42,4 +42,7 @@
 (use-package tree-sitter
   :requires tree-sitter tree-sitter-langs)
 
+(use-package magit
+  :ensure t)
+
 (provide 'packages)

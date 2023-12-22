@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#3B4252"> <strong>~/.</strong> </h1> <br>
 
-<h5 align="center"> All the dots united </h5>
+<h5 align="center"> Connecting all the dots... </h5>
 
 <br>
 

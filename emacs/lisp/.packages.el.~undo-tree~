@@ -1,0 +1,5 @@
+(undo-tree-save-format-version . 1)
+"fa3a8476983e700a9d631ca8807bb72755ee0e1e"
+[nil nil nil nil (25221 45657 644143 0) 0 nil]
+([nil current ((#("j" 0 1 (fontified t help-echo "Easy to misread; consider moving the element to the next line" face (font-lock-warning-face))) . -961) (undo-tree-id0 . -1) (#("j" 0 1 (fontified t help-echo "Easy to misread; consider moving the element to the next line" face (font-lock-warning-face))) . -962) (undo-tree-id1 . -1) 963 (951 . 963) (948 . 951) (930 . 948) (929 . 930) (928 . 929) (t 25220 28622 178992 370000) 886) nil (25221 45657 644139 0) 0 nil])
+nil

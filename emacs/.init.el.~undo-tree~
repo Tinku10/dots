@@ -1,0 +1,27 @@
+(undo-tree-save-format-version . 1)
+"b04c3f33a9341f84e3187ff43c0c990f8c009f35"
+[nil nil nil nil (25221 45692 27202 0) 0 nil]
+([nil nil ((143 . 710) (t 25220 28315 747609 843000)) nil (25221 45692 27200 0) 0 nil])
+([nil nil ((470 . 709) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -470) (143 . 469) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages '(which-key undo-tree smart-mode-line use-package)))" 0 326 (fontified nil)) . -143) (t 25221 45692 28170 137000)) nil (25221 46038 305848 0) 0 nil])
+([nil current ((470 . 709) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -470) (143 . 469) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages '(which-key undo-tree smart-mode-line use-package)))" 0 326 (fontified nil)) . -143) (t 25221 46038 307248 780000)) nil (25221 46118 818655 0) 0 nil])
+nil
